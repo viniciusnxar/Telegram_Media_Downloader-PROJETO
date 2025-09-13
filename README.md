@@ -177,7 +177,5 @@ Este script foi projetado para fins pessoais, como backup de dados de canais ou 
 
 ---
 
----
-
 ## **Licença**
 Este projeto está licenciado sob a [MIT License](LICENSE).
