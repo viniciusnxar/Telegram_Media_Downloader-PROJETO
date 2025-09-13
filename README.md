@@ -2,7 +2,7 @@
 
 # Telegram Media Downloader
 
-Este projeto é uma ferramenta para automatizar o **download de mídias** de canais e grupos do Telegram, incluindo aqueles com restrições. Ele utiliza a biblioteca **Pyrogram** para se comunicar com a API do Telegram e gerenciar o download de arquivos de maneira eficiente.
+Este projeto é uma ferramenta para automatizar o **download de mídias** de canais e grupos do Telegram. Ele utiliza a biblioteca **Pyrogram** para se comunicar com a API do Telegram e gerenciar o download de arquivos de maneira eficiente.
 
 ---
 
@@ -176,9 +176,6 @@ telegram-media-downloader/
 Este script foi projetado para fins pessoais, como backup de dados de canais ou grupos dos quais você é membro. **O uso indevido para infringir direitos autorais ou acessar mídias sem permissão pode violar os Termos de Serviço do Telegram.**
 
 ---
-
-## **Contribuição**
-Sinta-se à vontade para enviar PRs ou relatar problemas. Sugestões são sempre bem-vindas!
 
 ---
 
